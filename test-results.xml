@@ -1,0 +1,8 @@
+<suite name="Appium Test Suite">
+    <test name="Scenario Tests">
+        <classes>
+            <class name="StepsForScnerio2.TestRunner2"/>
+            <class name="Steps.TestRunner"/>
+        </classes>
+    </test>
+</suite>
